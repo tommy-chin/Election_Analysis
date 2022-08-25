@@ -111,10 +111,10 @@ with open(file_to_load) as election_data:
         txt_file.write(winning_candidate_summary)
 
 
-    #Print out the candidate options
+    # Print out the candidate options
     #print(candidate_options)
 
-    #Print the candiate vote dictionary
+    # Print the candiate vote dictionary
     #print(candidate_votes)
 
 

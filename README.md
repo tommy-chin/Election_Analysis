@@ -2,8 +2,7 @@
 ## Overview of Election Audit
 ### Purpose
 ## Election Audit Results
-Please refer to https://github.com/tommy-chin/Election_Analysis/blob/main/PyPoll_Challenge.py for more insight on the script written for this election audit analysis.
-Please refer to https://github.com/tommy-chin/Election_Analysis/blob/main/analysis/election_analysis.txt for a overview of the election audit results.
+Please refer to https://github.com/tommy-chin/Election_Analysis/blob/main/PyPoll_Challenge.py for more insight on the script written for this election audit analysis and to https://github.com/tommy-chin/Election_Analysis/blob/main/analysis/election_analysis.txt for a overview of the election audit results.
 ### List of Questions and Answers
 * How many votes were cast in this congressional election?
   * A total number of 369,711 votes were cast in this congressional election.

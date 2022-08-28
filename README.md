@@ -1,7 +1,7 @@
 # Election_Analysis
 ## Overview of Election Audit
 ### Purpose
-A request was submitted by a Colorado election commission committee to provide an election analysis on a US congressional precinct in Colorado. More specifically, it was requested that this process be automated using Python instead of manually with Excel. This would enable the Python script created to be used for other congressional predict elections within or even out of the state. 
+A request was submitted by a Colorado election commission committee to provide an election analysis on a US congressional precinct in Colorado. More specifically, it was requested that this process be automated using Python instead of manually with Excel. By automating this election analysis process, the hope was to use the created Python code for multiple different elections in the United States. 
 ## Election Audit Results
 Please refer to https://github.com/tommy-chin/Election_Analysis/blob/main/PyPoll_Challenge.py for more insight on the script written for this election audit analysis and to https://github.com/tommy-chin/Election_Analysis/blob/main/analysis/election_analysis.txt for a overview of the election audit results.
 ### List of Questions and Answers

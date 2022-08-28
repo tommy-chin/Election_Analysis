@@ -23,6 +23,6 @@ Please refer to https://github.com/tommy-chin/Election_Analysis/blob/main/PyPoll
   * Raymon Anthony Doane
     * 11,606 votes and 3.1% of the total vote
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-  * 
+  * The victor of the election was Diana DeGette with a total vote count of 272,892 which was 73.8% of the total vote.
 ## Election Audit Summary
 

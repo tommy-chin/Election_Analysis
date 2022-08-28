@@ -14,7 +14,15 @@ Please refer to https://github.com/tommy-chin/Election_Analysis/blob/main/PyPoll
   * Arapahoe
     * 24,801 votes and 6.7% of the total vote
 * Which county had the largest number of votes?
+  * Denver county had the largest number of votes with 306,055 votes. 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+  * Charles Casper Stockham
+    * 85,213 votes and 23.0% of the total vote
+  * Diana DeGette
+    * 272,892 votes and 73.8% of the total vote
+  * Raymon Anthony Doane
+    * 11,606 votes and 3.1% of the total vote
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+  * 
 ## Election Audit Summary
 

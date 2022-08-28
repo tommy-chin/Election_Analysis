@@ -7,10 +7,12 @@ Please refer to https://github.com/tommy-chin/Election_Analysis/blob/main/PyPoll
 * How many votes were cast in this congressional election?
   * A total number of 369,711 votes were cast in this congressional election.
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-  * County Votes:
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
+  * Jefferson
+   * 38,885 votes and 10.5% of the total vote
+  * Denver
+   * 306,055 votes and 82.8% of the total vote
+  * Arapahoe
+   * 24,801 votes and 6.7% of the total vote
 * Which county had the largest number of votes?
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?

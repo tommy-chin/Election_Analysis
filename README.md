@@ -26,4 +26,4 @@ Please refer to https://github.com/tommy-chin/Election_Analysis/blob/main/PyPoll
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   * The victor of the election was Diana DeGette with a total vote count of 272,892 which was 73.8% of the total vote.
 ## Election Audit Summary
-
+The Python script that was created for requested election analysis can actually be very versatile in that not much of the code needs to be altered in order to do anaylsis on other elections. If the election analysis was needed to be performed on a larger scale such as states instead of counties, any variables in the code that contain "county" would just have be changed into "states". Another issue that could happen is if the csv voting data provided had the headers in a different order. The csv voting data provided for this analysis was in the order of "Ballot ID", "County", and "Candidate". If for instance "County" and "Candidate" were swapped in another csv voting data, lines 49 and lines 52 in the Python code would need to be adjusted so that the code would pull data from the proper row of the csv. 
